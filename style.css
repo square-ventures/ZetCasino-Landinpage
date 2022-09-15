@@ -77,11 +77,6 @@ body {
 .banners-container {
   margin-top: -20px;
 }
-@media screen and (min-width: 600px) {
-  .banners-container {
-    margin-top: -50px;
-  }
-}
 @media screen and (min-width: 1024px) {
   .banners-container {
     display: flex;
